@@ -21,7 +21,7 @@ An old photo held by album photo corners: the family photo box, organized.
 |---|---|
 | [`assets/symbol.svg`](assets/symbol.svg) | On light backgrounds |
 | [`assets/symbol-dark.svg`](assets/symbol-dark.svg) | On dark backgrounds |
-| [`assets/symbol-small.svg`](assets/symbol-small.svg) | Favicons (48, 32 and 16 px) and anything under 48 px: the print is solid, without the white frame |
+| [`assets/symbol-small.svg`](assets/symbol-small.svg) | Favicons (48, 32 and 16 px): the print is solid, without the white frame. It follows the browser's colour scheme, switching to the dark-background colours (`#EEECE7` corners, `#C98A55` print) on dark tabs, so inside a page with a fixed light background draw it with fixed colours instead |
 | [`assets/symbol-mono.svg`](assets/symbol-mono.svg) | One-color printing and embossing |
 | [`assets/app-icon.svg`](assets/app-icon.svg) | App icons: the dark-background symbol on a Developer rounded square |
 
